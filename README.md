@@ -2,7 +2,7 @@
 
 <div style="display:flex; justify-content: center; align-items: center">
   <img src='demo%20screenshots/before%20editing.png' width='230'/>
-  <img src='demo%20screenshots/after%20editing.png' width='230'/>
+  <img src='demo%20screenshots/Screenshot_20230101-221404.png' width='230'/>
   <img src='demo%20screenshots/Screenshot_20230101-221520.png' width='230'/>
 </div>
 
